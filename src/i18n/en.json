@@ -1,0 +1,11 @@
+{
+  "welcome": "Welcome",
+  "notFound": {
+    "title": "Page Not Found",
+    "description": "Sorry, we can't find that page. You'll find lots to explore on the home page",
+    "backButton": "Go Back"
+  },
+  "changeLanguage": "Change Language",
+  "AboutUs": "About Us",
+  "PageTemplate": "Page Template"
+}

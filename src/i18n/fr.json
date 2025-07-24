@@ -1,0 +1,11 @@
+{
+  "welcome": "Bienvenue",
+  "notFound": {
+    "title": "Page non trouvée",
+    "description": "Désolé, nous ne trouvons pas cette page. Vous trouverez beaucoup de choses à explorer sur la page d'accueil.",
+    "backButton": "Retour"
+  },
+  "changeLanguage": "Changer de langue",
+  "AboutUs": "À propos de nous",
+  "PageTemplate": "Modèle de page"
+}
