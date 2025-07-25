@@ -121,6 +121,12 @@ Configured with:
 
 ---
 
+## Todo
+
+- Add usage docs in readme
+
+---
+
 ## 📄 License
 
 MIT — feel free to use, extend, and contribute.
