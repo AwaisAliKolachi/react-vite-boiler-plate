@@ -124,6 +124,7 @@ Configured with:
 ## Todo
 
 - Add usage docs in readme
+- Improve UI for homepage and about page
 
 ---
 
